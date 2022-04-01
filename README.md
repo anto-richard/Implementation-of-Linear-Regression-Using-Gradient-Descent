@@ -75,8 +75,8 @@ plt.ylabel("loss")
 ```
 
 ## OUTPUT:
-![linear regression using gradient descent](out1.png)
-![linear regression using gradient descent](out2.png)
+![linear regression using gradient descent](out01.png)
+![linear regression using gradient descent](out02.png)
 
 
 
